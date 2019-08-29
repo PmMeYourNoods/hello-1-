@@ -6,9 +6,10 @@ Objective:
 
 */
 
-int main(void) {
+int main(int argc, char **argv) {
 	
 	printf("Hello Matthew.\n");
+	printf("Major: Business-Finance);
 	
 	return 0;
 }
